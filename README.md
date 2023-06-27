@@ -10,6 +10,8 @@ learning how to build a simple app using react native and learning the routing p
 
 ## App Preview
 
-## Demo
+![](assets/images/nft1.png)
 
-https://dashboard-six-drab.vercel.app/
+![](assets/images/nft2.png)
+
+![](assets/images/nft3.png)
